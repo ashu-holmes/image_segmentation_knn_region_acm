@@ -31,10 +31,6 @@ J. Rogowska, Chapter 5 – overview and fundamentals of medical image segmentati
 in: I.N. Bankman (Ed.), Handbook of Medical Image Processing and Analysis, second 
 ed., Academic Press, Burlington, 2009, pp. 73–90. 
 
-IMAGE SEGMENTATION USING ACM ! 
-
-
-
 ❖ 
 M. Kass, A. Witkin, D. Terzopoulos, Snakes: active contour models, Int. J. Comput. 
 Vision 1 (4) (1988) 321–331. 
